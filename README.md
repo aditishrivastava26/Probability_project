@@ -5,11 +5,11 @@ The program follows a modular design, where each type of probability calculation
 
 Features:
 The calculator currently supports;
- Basic Probability
- Conditional Probability
- Independent Events
- Union of Events
- Dice Probability
+ Basic Probability, 
+ Conditional Probability, 
+ Independent Events, 
+ Union of Events, 
+ Dice Probability.
     One Die-
         Specific Number(s)
         Even Number
@@ -29,14 +29,14 @@ The calculator currently supports;
 
 Concepts cleared:
     This project demonstrates the use of:
-        Probability formulas
-        Modular programming
-        User-defined functions
-        Recursive input validation
-        Dictionaries
-        Decision making (if, elif, else)
-        Error handling
-        Code organization
+        Probability formulas, 
+        Modular programming, 
+        User-defined functions, 
+        Recursive input validation ,
+        Dictionaries, 
+        Decision making (if, elif, else), 
+        Error handling, 
+        Code organization.
 
 Future Improvements
     Some features planned for future versions include:
