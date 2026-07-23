@@ -2,15 +2,15 @@
 # Probability_Calculator
 This is a python based program developed as a learning project to perform probability calculations using a menu driven interface it is made to be user friendly in other words is very dynamic and easy to use and provides you with different probability calculations.
 The program follows a modular design, where each type of probability calculation is implemented in a separate Python file.
-
-Features:
-The calculator currently supports;
- Basic Probability, 
- Conditional Probability, 
- Independent Events, 
- Union of Events, 
- Dice Probability.
   ```
+    Features:
+       The calculator currently supports;
+        Basic Probability, 
+        Conditional Probability, 
+        Independent Events, 
+        Union of Events, 
+        Dice Probability.
+
     One Die-
         Specific Number(s)
         Even Number
