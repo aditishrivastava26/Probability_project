@@ -10,6 +10,7 @@ The calculator currently supports;
  Independent Events, 
  Union of Events, 
  Dice Probability.
+  ```
     One Die-
         Specific Number(s)
         Even Number
